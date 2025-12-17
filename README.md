@@ -67,4 +67,4 @@ Attempts to disable Windows hibernation and remove the `hiberfil.sys` file, whic
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Al-Khadrawy/Low-Disk-Space-Cleanup/releases/tag/1.0.0
