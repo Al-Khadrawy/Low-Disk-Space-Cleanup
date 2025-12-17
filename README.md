@@ -1,6 +1,16 @@
-# 🧹 Windows Disk Cleanup Utility
+# 🖥️ Low Disk Space Cleanup Tool
 
-A lightweight Windows cleanup script designed to free disk space, remove unnecessary files, and improve overall system performance.
+![Version](https://img.shields.io/badge/version-v1.0.0-green)  
+![Platform](https://img.shields.io/badge/platform-Windows-blue)  
+![License: MIT](https://img.shields.io/badge/license-AL%20Khadrawy-blue)  
+
+A lightweight Windows cleanup script designed to free disk space, remove unnecessary files, and improve overall system performance.  
+
+---
+
+## 📸 Screenshot  
+<img width="958" height="878" alt="2025-10-19 01_47_11-NVIDIA GeForce Overlay" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3w183qLbWa6nDMJN8YQ4aU16MNODsc1oaemyQ_KC40ZP1WBFjbi9zl9CGfD9TvzTSgPMOOShyphenhyphenb10zAbm-xhl6y3HxQMS8iRJRbdz4v7XzExVfZcOMvO0ePuPCSpLXGMTWNYn7WrIF3dX6_KK3wvRWYUZw7HLhejHTGPHI-q6YVUHmXhSz_BOpmvEfNN70/s763/3.png" />
+
 
 ---
 
