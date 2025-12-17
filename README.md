@@ -75,7 +75,7 @@ Attempts to disable Windows hibernation and remove the `hiberfil.sys` file, whic
 
 ## 📜 Credits  
 
-This release (**1.0.0**) was fully contributed by **[AL KHADRAWY](https://github.com/Al-Khadrawy/Low-Disk-Space-Cleanup/releases/tag/1.0.0)**.  
+This release (**1.0.0**) was fully contributed by **[AL KHADRAWY](https://github.com/Al-Khadrawy)**.  
 All new features, fixes, and improvements are thanks to his work. 
 
 ---
