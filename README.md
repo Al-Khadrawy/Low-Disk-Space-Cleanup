@@ -3,7 +3,7 @@
 ![Windows](https://img.shields.io/badge/OS-Windows%2010%20%7C%2011-blue)
 ![CMD](https://img.shields.io/badge/Script-CMD%20%7C%20Batch-green)
 ![License](https://img.shields.io/badge/License-AL%20Khadrawy-yellow)
-![Version](https://img.shields.io/badge/version-v1.0-red)  
+![Version](https://img.shields.io/badge/version-v1.0.0-red)  
 
 
 A lightweight Windows cleanup script designed to free disk space, remove unnecessary files, and improve overall system performance.
